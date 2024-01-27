@@ -1,4 +1,4 @@
-# knn-proj: K-Nearest Neighbors Image Classifier
+# DSC-Image-KNN: K-Nearest Neighbors Image Classifier
 
 ## Overview
 This class project focuses on processing images and implementing a k-nearest neighbors (KNN) classifier to categorize images. It includes functionalities for both image manipulation and classification using the KNN algorithm.
